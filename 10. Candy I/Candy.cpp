@@ -52,15 +52,14 @@ int main() {
 		//  inside each packet once they are evenly divided.
 		unsigned int average = candyCount/packetCount;
 		
-		// Next, we loop through each element of the vector till we reach the desired
-		//  solution and keep counting the number of moves made. Before, that declaring 
-		//  all the variables that are required.
+		// Next, loop through each element of the vector till and keep counting the number of moves made. 
+		// Before, that declaring all the variables that will be required.
 		unsigned int moves = 0;
 		
-		// Creating a variable to keep a track on the number of extra candies that we have. Can be negative.
+		// Creating a variable to keep a track on the number of extra candies that present. Can be negative.
 		int extraCandies = 0;
 		
-		// Looping through all elements of the vector. Should be finished within a single iteration of the loop.
+		// Looping through all elements of the vector. Will require a single iteration of the loop.
 		for (unsigned int i = 0; i < packetCount; i++)	{
 			if (candies.at(i) > average)	{
 				// If the number of candies is greater than the required, we take the remaining as extras.
