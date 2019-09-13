@@ -95,10 +95,10 @@ Memory - 16 MB
 
 Some resources that might be interesting to read.<br>
 
-[C++ Arrays Vs Vectors](https://stackoverflow.com/a/15079462)
+- [C++ Arrays Vs Vectors](https://stackoverflow.com/a/15079462)
 
-[C# ArrayList vs List in](https://stackoverflow.com/questions/2309694/arraylist-vs-list-in-c-sharp)
+- [C# ArrayList vs List in](https://stackoverflow.com/questions/2309694/arraylist-vs-list-in-c-sharp)
 
-[Java ArrayList vs List](https://stackoverflow.com/questions/14903145/what-is-the-difference-between-list-and-arraylist)
+- [Java ArrayList vs List](https://stackoverflow.com/questions/14903145/what-is-the-difference-between-list-and-arraylist)
 
-[Python When To Use List Vs Arrays](https://stackoverflow.com/a/176589)
+- [Python When To Use List Vs Arrays](https://stackoverflow.com/a/176589)
