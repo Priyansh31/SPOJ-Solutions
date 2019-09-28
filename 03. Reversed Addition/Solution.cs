@@ -8,12 +8,12 @@
 using System;
 
 public class Test	{
+	
+	///	<summary>
+	///		This method will be used to reverse a number and return the reversed number back to the calling method.
+	/// </summary>
+	/// <param name="input">The integer that is to be reversed and returned</param>		
 	public static int Reverse(int input)	{
-		///	<summary>
-		///		This method will be used to reverse a number and return the reversed number back to the calling method.
-		/// </summary>
-		/// <param name="input">The integer that is to be reversed and returned</param>
-		
 		// Creating a new variable to store the reverse of `input`.
 		int result = 0;
 	
