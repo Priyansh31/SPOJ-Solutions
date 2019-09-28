@@ -1,5 +1,3 @@
-
-
 # Prime Generator
 
 ### Problem Statement 
