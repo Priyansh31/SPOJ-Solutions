@@ -7,7 +7,7 @@ The following N lines, will have two numbers on each line. These numbers are sep
 
 For each line of input, print the result, one result in each line.
 The answer is to be devoid of all leading zeroes.
-	Leading Zeroes → The zeroes that are placed before any number. The initial "000" are the traling zeroes in "00012300" will the leading zeroes.
+- Leading Zeroes → The zeroes that are placed before any number. The initial "000" are the traling zeroes in "00012300" will the leading zeroes. </pre>
 
 > [Link to question on SPOJ](https://www.spoj.com/problems/ADDREV/)
 		
